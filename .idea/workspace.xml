@@ -4,21 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/각도기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/나머지구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/나이출력하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/두수의곱.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/두수의나눗셈.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/두수의차.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/두수의합.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/머쓱이보다키큰사람.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/몫구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/배열의평균값.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/숫자비교하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/중복된숫자개수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/짝수의합.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/편지.java" afterDir="false" />
+    <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="2024-07-31 스터디 (level0 14문제)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/문자열뒤집기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/배열두배만들기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/배열자르기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/분수의덧셈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/아이스아메리카노.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/옷가게할인받기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/중앙값구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/짝수는싫어요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/최빈값구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/피자나눠먹기_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,21 +38,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HanDJ00"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HanDJ00&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HanDJ00/java_coding_pratice.git",
-    "accountId": "609575b6-f6cf-4177-91ab-788d87ca2527"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HanDJ00/java_coding_pratice.git&quot;,
+    &quot;accountId&quot;: &quot;609575b6-f6cf-4177-91ab-788d87ca2527&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2k0HGiXvPdkaW3TikluQZRW3BaP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -68,7 +65,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Lecture/02_java/chap03-method-and-api-lecture-source",
+    "last_opened_file_path": "C:/Lecture/java_coding_pratice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,12 +91,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722413481265</updated>
-      <workItem from="1722413482408" duration="4886000" />
+      <workItem from="1722413482408" duration="4997000" />
+      <workItem from="1722501422677" duration="4030000" />
     </task>
+    <task id="LOCAL-00001" summary="2024-07-31 스터디 (level0 14문제)">
+      <option name="closed" value="true" />
+      <created>1722420094748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722420094748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024-07-31 스터디 (level0 14문제)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-07-31 스터디 (level0 14문제)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
