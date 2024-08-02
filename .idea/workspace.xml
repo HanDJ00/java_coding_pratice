@@ -4,18 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="2024-07-31 스터디 (level0 14문제)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/문자열뒤집기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/배열두배만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/배열자르기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/분수의덧셈.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/아이스아메리카노.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/옷가게할인받기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/중앙값구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/짝수는싫어요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/최빈값구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/피자나눠먹기_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="2024-08-01 스터디 (level0 10문제)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/n의배수고르기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/가위바위보.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/가장큰수찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/개미군단.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/대문자와소문자.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/모음제거.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/배열뒤집기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/배열원소의길이.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/배열의유사도.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/삼각형의완성조건_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/세균증식.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/순서쌍의개수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/숨어있는숫자의덧셈_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/암호해독.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/양꼬치.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/인덱스바꾸기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/자릿수더하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/점의위치구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/제곱수판별하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/주사위의개수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/직각삼각형출력하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/짝수홀수개수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/최댓값만들기_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/피자나눠먹기_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +40,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java_coding_pratice" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,21 +90,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Lecture/java_coding_pratice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Lecture/java_coding_pratice/src/main/java/com/ohgiraffers/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Lecture/java_coding_pratice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Lecture/java_coding_pratice/src/main/java/com/ohgiraffers/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,7 +122,9 @@
       <option name="presentableId" value="Default" />
       <updated>1722413481265</updated>
       <workItem from="1722413482408" duration="4997000" />
-      <workItem from="1722501422677" duration="4030000" />
+      <workItem from="1722501422677" duration="4085000" />
+      <workItem from="1722556890693" duration="610000" />
+      <workItem from="1722582976278" duration="9208000" />
     </task>
     <task id="LOCAL-00001" summary="2024-07-31 스터디 (level0 14문제)">
       <option name="closed" value="true" />
@@ -102,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722420094748</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2024-08-01 스터디 (level0 10문제)">
+      <option name="closed" value="true" />
+      <created>1722506685472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722506685472</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +150,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024-07-31 스터디 (level0 14문제)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-07-31 스터디 (level0 14문제)" />
+    <MESSAGE value="2024-08-01 스터디 (level0 10문제)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-01 스터디 (level0 10문제)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
