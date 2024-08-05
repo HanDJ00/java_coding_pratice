@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="2024-08-02 스터디 (level0 26문제)">
+    <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="2024-08-04 스터디 (level0 1문제)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/_369게임.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/문자반복출력하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/문자열안에문자열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/배열회전시키기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/숫자찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/약수구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/외계행성의나이.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +108,9 @@
       <workItem from="1722501422677" duration="4085000" />
       <workItem from="1722556890693" duration="610000" />
       <workItem from="1722582976278" duration="9536000" />
-      <workItem from="1722770263874" duration="345000" />
+      <workItem from="1722770263874" duration="526000" />
+      <workItem from="1722816137015" duration="735000" />
+      <workItem from="1722845021352" duration="3181000" />
     </task>
     <task id="LOCAL-00001" summary="2024-07-31 스터디 (level0 14문제)">
       <option name="closed" value="true" />
@@ -127,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722593076448</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2024-08-04 스터디 (level0 1문제)">
+      <option name="closed" value="true" />
+      <created>1722770773785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722770773785</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +154,8 @@
     <MESSAGE value="2024-07-31 스터디 (level0 14문제)" />
     <MESSAGE value="2024-08-01 스터디 (level0 10문제)" />
     <MESSAGE value="2024-08-02 스터디 (level0 26문제)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-08-02 스터디 (level0 26문제)" />
+    <MESSAGE value="2024-08-04 스터디 (level0 1문제)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-04 스터디 (level0 1문제)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
