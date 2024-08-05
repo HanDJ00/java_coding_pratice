@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="2024-08-04 스터디 (level0 1문제)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/_369게임.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/문자반복출력하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/문자열안에문자열.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/배열회전시키기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/숫자찾기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/약수구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmgers/level0/외계행성의나이.java" afterDir="false" />
+    <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="2024-08-05 스터디 (level0 8문제)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/_1094.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,21 +67,42 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Lecture/java_coding_pratice&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Lecture/java_coding_pratice/src/main/java/com/ohgiraffers/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.java_coding_pratice [:_1094.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Lecture/java_coding_pratice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Lecture/java_coding_pratice/src/main/java/com/ohgiraffers/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="_1094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon._1094" />
+      <module name="java_coding_pratice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._1094" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,7 +125,7 @@
       <workItem from="1722582976278" duration="9536000" />
       <workItem from="1722770263874" duration="526000" />
       <workItem from="1722816137015" duration="735000" />
-      <workItem from="1722845021352" duration="3181000" />
+      <workItem from="1722845021352" duration="5656000" />
     </task>
     <task id="LOCAL-00001" summary="2024-07-31 스터디 (level0 14문제)">
       <option name="closed" value="true" />
@@ -144,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722770773785</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2024-08-05 스터디 (level0 8문제)">
+      <option name="closed" value="true" />
+      <created>1722848277104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722848277104</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +178,8 @@
     <MESSAGE value="2024-08-01 스터디 (level0 10문제)" />
     <MESSAGE value="2024-08-02 스터디 (level0 26문제)" />
     <MESSAGE value="2024-08-04 스터디 (level0 1문제)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-08-04 스터디 (level0 1문제)" />
+    <MESSAGE value="2024-08-05 스터디 (level0 8문제)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-05 스터디 (level0 8문제)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
