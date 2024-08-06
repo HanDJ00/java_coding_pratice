@@ -18,6 +18,7 @@ public class _1094 {
         System.out.println(stick_num);
 
 
+
     }
 
     public static int recursion(int n){
