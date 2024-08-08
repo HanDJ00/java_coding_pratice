@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="2024-08-05 스터디 (beakjoon 1문제)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/_1010.java" afterDir="false" />
+    <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="2024-08-07 스터디 (beakjoon 1문제)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/_2163.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baekjoon/_1094.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/_1094.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +70,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Gradle.java_coding_pratice [:_1094.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_1236.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_2163.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Lecture/chap06-class-and-object-lecture-source",
+    "last_opened_file_path": "C:/Lecture/java_coding_pratice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,7 +85,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application._2163">
     <configuration name="_1094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon._1094" />
       <module name="java_coding_pratice.main" />
@@ -98,8 +99,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_1236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon._1236" />
+      <module name="java_coding_pratice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2163" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon._2163" />
+      <module name="java_coding_pratice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._2163" />
+        <item itemvalue="Application._1236" />
         <item itemvalue="Application._1094" />
       </list>
     </recent_temporary>
@@ -128,6 +157,9 @@
       <workItem from="1722816137015" duration="735000" />
       <workItem from="1722845021352" duration="8626000" />
       <workItem from="1722902312965" duration="601000" />
+      <workItem from="1723017789888" duration="4247000" />
+      <workItem from="1723075394503" duration="479000" />
+      <workItem from="1723106219303" duration="1598000" />
     </task>
     <task id="LOCAL-00001" summary="2024-07-31 스터디 (level0 14문제)">
       <option name="closed" value="true" />
@@ -177,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722850728636</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2024-08-07 스터디 (beakjoon 1문제)">
+      <option name="closed" value="true" />
+      <created>1723022059681</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723022059681</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +229,8 @@
     <MESSAGE value="2024-08-02 스터디 (level0 26문제)" />
     <MESSAGE value="2024-08-04 스터디 (level0 1문제)" />
     <MESSAGE value="2024-08-05 스터디 (level0 8문제)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-08-05 스터디 (level0 8문제)" />
+    <MESSAGE value="2024-08-07 스터디 (beakjoon 1문제)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-07 스터디 (beakjoon 1문제)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
