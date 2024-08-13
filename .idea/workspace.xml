@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="2024-08-08 스터디 (beakjoon 1문제)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_1/_2684.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/gold/_1/_1016.java" afterDir="false" />
+    <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baekjoon/_1094.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/silver/_5/_1094.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baekjoon/_1110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_1/_1110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baekjoon/_1157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_1/_1157.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baekjoon/_1236.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_1/_1236.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baekjoon/_2163.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_1/_2163.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baekjoon/gold/_1/_1016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/gold/_1/_1016.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,27 +67,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build java_coding_pratice.executor": "Run",
-    "Gradle.java_coding_pratice [:_1016.main()].executor": "Run",
-    "Gradle.java_coding_pratice [:_1094.main()].executor": "Run",
-    "Gradle.java_coding_pratice [:_1236.main()].executor": "Run",
-    "Gradle.java_coding_pratice [:_2163.main()].executor": "Run",
-    "Gradle.java_coding_pratice [:_2684.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Lecture/java_coding_pratice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Lecture/java_coding_pratice/src/main/java/com/ohgiraffers/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build java_coding_pratice.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java_coding_pratice [:_1016.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java_coding_pratice [:_1094.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java_coding_pratice [:_1236.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java_coding_pratice [:_2163.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java_coding_pratice [:_2684.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Lecture/java_coding_pratice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Lecture/java_coding_pratice/src/main/java/com/ohgiraffers/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application._1016">
     <configuration name="_1016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.gold._1._1016" />
@@ -198,7 +192,10 @@
       <workItem from="1723075394503" duration="479000" />
       <workItem from="1723106219303" duration="1620000" />
       <workItem from="1723161665247" duration="7000" />
-      <workItem from="1723188830466" duration="4344000" />
+      <workItem from="1723188830466" duration="4439000" />
+      <workItem from="1723420787523" duration="846000" />
+      <workItem from="1723449932090" duration="2753000" />
+      <workItem from="1723537338635" duration="3909000" />
     </task>
     <task id="LOCAL-00001" summary="2024-07-31 스터디 (level0 14문제)">
       <option name="closed" value="true" />
@@ -264,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723107837458</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2024-08-09 스터디 (beakjoon 1문제)">
+      <option name="closed" value="true" />
+      <created>1723193233111</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723193233111</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +283,8 @@
     <MESSAGE value="2024-08-05 스터디 (level0 8문제)" />
     <MESSAGE value="2024-08-07 스터디 (beakjoon 1문제)" />
     <MESSAGE value="2024-08-08 스터디 (beakjoon 1문제)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-08-08 스터디 (beakjoon 1문제)" />
+    <MESSAGE value="2024-08-09 스터디 (beakjoon 1문제)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-09 스터디 (beakjoon 1문제)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
