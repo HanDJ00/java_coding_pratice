@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_1/_1333.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_1/_13552.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_1/_1672.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_2/_1076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_2/_1453.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_2/_1712.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_3/_1247.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_3/_15953.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_3/_2547.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baekjoon/gold/_1/_1016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/gold/_1/_1016.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,34 +75,43 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build java_coding_pratice.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.java_coding_pratice [:_1016.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.java_coding_pratice [:_1094.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.java_coding_pratice [:_1236.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.java_coding_pratice [:_2163.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.java_coding_pratice [:_2684.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Lecture/java_coding_pratice&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Lecture/java_coding_pratice/src/main/java/com/ohgiraffers/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build java_coding_pratice.executor": "Run",
+    "Gradle.java_coding_pratice [:_1016.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_1076.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_1094.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_1236.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_1247.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_1333.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_13552.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_1453.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_15953.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_1672.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_1712.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_2163.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_2547.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_2684.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Lecture/java_coding_pratice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Lecture/java_coding_pratice/src/main/java/com/ohgiraffers/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application._1016">
-    <configuration name="_1016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.gold._1._1016" />
+}]]></component>
+  <component name="RunManager" selected="Application._2547">
+    <configuration name="_1247" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._3._1247" />
       <module name="java_coding_pratice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.gold._1.*" />
+          <option name="PATTERN" value="baekjoon.bronze._3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.silver._5._1094" />
+    <configuration name="_1453" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._2._1453" />
       <module name="java_coding_pratice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.silver._5.*" />
+          <option name="PATTERN" value="baekjoon.bronze._2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._1._1236" />
+    <configuration name="_15953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._3._15953" />
       <module name="java_coding_pratice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.silver._5.*" />
+          <option name="PATTERN" value="baekjoon.bronze._3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2163" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._1._2163" />
+    <configuration name="_1712" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._2._1712" />
       <module name="java_coding_pratice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.silver._5.*" />
+          <option name="PATTERN" value="baekjoon.bronze._2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2684" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._1._2684" />
+    <configuration name="_2547" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._3._2547" />
       <module name="java_coding_pratice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.silver._5.*" />
+          <option name="PATTERN" value="baekjoon.bronze._3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._1016" />
-        <item itemvalue="Application._2684" />
-        <item itemvalue="Application._2163" />
-        <item itemvalue="Application._1236" />
-        <item itemvalue="Application._1094" />
+        <item itemvalue="Application._2547" />
+        <item itemvalue="Application._15953" />
+        <item itemvalue="Application._1247" />
+        <item itemvalue="Application._1453" />
+        <item itemvalue="Application._1712" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +213,11 @@
       <workItem from="1723420787523" duration="846000" />
       <workItem from="1723449932090" duration="2753000" />
       <workItem from="1723537338635" duration="3909000" />
+      <workItem from="1723544733758" duration="90000" />
+      <workItem from="1723594840238" duration="28000" />
+      <workItem from="1724050980877" duration="6529000" />
+      <workItem from="1724074749940" duration="1281000" />
+      <workItem from="1724076134724" duration="4035000" />
     </task>
     <task id="LOCAL-00001" summary="2024-07-31 스터디 (level0 14문제)">
       <option name="closed" value="true" />
@@ -269,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723193233111</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2024-08-13 스터디 (beakjoon 1문제)">
+      <option name="closed" value="true" />
+      <created>1723544800260</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723544800260</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +314,8 @@
     <MESSAGE value="2024-08-07 스터디 (beakjoon 1문제)" />
     <MESSAGE value="2024-08-08 스터디 (beakjoon 1문제)" />
     <MESSAGE value="2024-08-09 스터디 (beakjoon 1문제)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-08-09 스터디 (beakjoon 1문제)" />
+    <MESSAGE value="2024-08-13 스터디 (beakjoon 1문제)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-13 스터디 (beakjoon 1문제)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
