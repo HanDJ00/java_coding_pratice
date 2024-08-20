@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_1/_1333.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_1/_13552.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_1/_1672.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_2/_1076.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_2/_1453.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_2/_1712.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_3/_1247.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_3/_15953.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/bronze/_3/_2547.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/platinum/_5/_1095.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +73,7 @@
     "Gradle.java_coding_pratice [:_1016.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_1076.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_1094.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_1095.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_1236.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_1247.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_1333.main()].executor": "Run",
@@ -105,7 +98,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._2547">
+  <component name="RunManager" selected="Application._1095">
+    <configuration name="_1095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.platinum._5._1095" />
+      <module name="java_coding_pratice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.platinum._5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_1247" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._3._1247" />
       <module name="java_coding_pratice.main" />
@@ -145,19 +151,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1712" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._2._1712" />
-      <module name="java_coding_pratice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjoon.bronze._2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_2547" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._3._2547" />
       <module name="java_coding_pratice.main" />
@@ -173,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._1095" />
         <item itemvalue="Application._2547" />
         <item itemvalue="Application._15953" />
         <item itemvalue="Application._1247" />
         <item itemvalue="Application._1453" />
-        <item itemvalue="Application._1712" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +210,9 @@
       <workItem from="1723594840238" duration="28000" />
       <workItem from="1724050980877" duration="6529000" />
       <workItem from="1724074749940" duration="1281000" />
-      <workItem from="1724076134724" duration="4035000" />
+      <workItem from="1724076134724" duration="4180000" />
+      <workItem from="1724111990751" duration="461000" />
+      <workItem from="1724137141374" duration="4078000" />
     </task>
     <task id="LOCAL-00001" summary="2024-07-31 스터디 (level0 14문제)">
       <option name="closed" value="true" />
@@ -299,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723544800260</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2024-08-20 스터디 (beakjoon 9문제)">
+      <option name="closed" value="true" />
+      <created>1724080579007</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724080579007</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +318,8 @@
     <MESSAGE value="2024-08-08 스터디 (beakjoon 1문제)" />
     <MESSAGE value="2024-08-09 스터디 (beakjoon 1문제)" />
     <MESSAGE value="2024-08-13 스터디 (beakjoon 1문제)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-08-13 스터디 (beakjoon 1문제)" />
+    <MESSAGE value="2024-08-20 스터디 (beakjoon 9문제)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-20 스터디 (beakjoon 9문제)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
