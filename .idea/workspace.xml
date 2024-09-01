@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10cbd55b-6be5-42a3-b11b-749d4138a48d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/silver/_4/_2839.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/silver/_4/_2847.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/silver/_5/_1439.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/silver/_5/_1531.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/silver/_5/_1996.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baekjoon/silver/_5/_31216.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/silver/_5/_31216.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baekjoon/diamond/_5/_5051.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/diamond/_5/_5051.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,9 @@
     "Gradle.java_coding_pratice [:_1247.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_1333.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_13552.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_1439.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_1453.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_1531.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_15953.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_1672.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_1712.main()].executor": "Run",
@@ -91,6 +94,7 @@
     "Gradle.java_coding_pratice [:_2966.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_3040.main()].executor": "Run",
     "Gradle.java_coding_pratice [:_31216.main()].executor": "Run",
+    "Gradle.java_coding_pratice [:_5051.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -104,13 +108,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._2847">
-    <configuration name="_1095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.platinum._5._1095" />
+  <component name="RunManager" selected="Application._1531">
+    <configuration name="_1439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.silver._5._1439" />
       <module name="java_coding_pratice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.platinum._5.*" />
+          <option name="PATTERN" value="baekjoon.silver._5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1531" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.silver._5._1531" />
+      <module name="java_coding_pratice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.silver._5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,32 +148,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2966" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._2._2966" />
-      <module name="java_coding_pratice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjoon.bronze._2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_3040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze._2._3040" />
-      <module name="java_coding_pratice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjoon.bronze._2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_31216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.silver._5._31216" />
       <module name="java_coding_pratice.main" />
@@ -170,13 +161,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_5051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.diamond._5._5051" />
+      <module name="java_coding_pratice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.diamond._5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._1531" />
+        <item itemvalue="Application._1439" />
+        <item itemvalue="Application._5051" />
         <item itemvalue="Application._2847" />
         <item itemvalue="Application._31216" />
-        <item itemvalue="Application._2966" />
-        <item itemvalue="Application._3040" />
-        <item itemvalue="Application._1095" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +228,12 @@
       <workItem from="1724284757535" duration="8000" />
       <workItem from="1724288333777" duration="146000" />
       <workItem from="1724289302526" duration="2929000" />
-      <workItem from="1724308127553" duration="3446000" />
+      <workItem from="1724308127553" duration="8247000" />
+      <workItem from="1724371199118" duration="851000" />
+      <workItem from="1724395153391" duration="3631000" />
+      <workItem from="1724630905329" duration="57000" />
+      <workItem from="1724656695701" duration="4317000" />
+      <workItem from="1725202904604" duration="11272000" />
     </task>
     <task id="LOCAL-00001" summary="2024-07-31 스터디 (level0 14문제)">
       <option name="closed" value="true" />
@@ -330,7 +339,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724230134172</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2024-08-22 스터디 (beakjoon 2문제)">
+      <option name="closed" value="true" />
+      <created>1724311680844</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724311680844</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2024-08-22 스터디 (beakjoon 1문제 풀다 말았음)">
+      <option name="closed" value="true" />
+      <created>1724316581161</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724316581161</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +374,9 @@
     <MESSAGE value="2024-08-20 스터디 (beakjoon 9문제)" />
     <MESSAGE value="2024-08-20 스터디 (beakjoon 1문제 메모리 초과)" />
     <MESSAGE value="2024-08-21 스터디 (beakjoon 3문제)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-08-21 스터디 (beakjoon 3문제)" />
+    <MESSAGE value="2024-08-22 스터디 (beakjoon 2문제)" />
+    <MESSAGE value="2024-08-22 스터디 (beakjoon 1문제 풀다 말았음)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-22 스터디 (beakjoon 1문제 풀다 말았음)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
